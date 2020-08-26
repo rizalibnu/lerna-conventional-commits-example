@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/Everettss/lerna-conventional-commits-example/compare/@my-scope/usage@1.1.0...@my-scope/usage@1.2.0) (2020-08-26)
+
+
+### Features
+
+* add console warn ([c8dfd0e](https://github.com/Everettss/lerna-conventional-commits-example/commit/c8dfd0e))
+
+
+
+
+<a name="1.2.0-alpha.c8dfd0ef"></a>
+# [1.2.0-alpha.c8dfd0ef](https://github.com/Everettss/lerna-conventional-commits-example/compare/@my-scope/usage@1.1.0...@my-scope/usage@1.2.0-alpha.c8dfd0ef) (2020-08-26)
+
+
+### Features
+
+* add console warn ([c8dfd0e](https://github.com/Everettss/lerna-conventional-commits-example/commit/c8dfd0e))
+
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/Everettss/lerna-conventional-commits-example/compare/@my-scope/usage@1.0.4...@my-scope/usage@1.1.0) (2020-08-26)
 
