@@ -7,8 +7,5 @@
       "conventionalCommits": true,
       "registry": "http://localhost:4873"
     }
-  },
-  "publishConfig": {
-    "access": "restricted"
   }
 }
