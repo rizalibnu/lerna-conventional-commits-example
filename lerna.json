@@ -2,7 +2,7 @@
   "lerna": "3.22.1",
   "version": "independent",
   "npmClient": "yarn",
-  "commands": {
+  "command": {
     "publish": {
       "conventionalCommits": true,
       "registry": "http://localhost:4873"
