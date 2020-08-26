@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/Everettss/lerna-conventional-commits-example/compare/@my-scope/usage@1.2.0...@my-scope/usage@1.3.0) (2020-08-26)
+
+
+### Features
+
+* add console error ([6631516](https://github.com/Everettss/lerna-conventional-commits-example/commit/66315168ce61f1cfd18808c6eba6dffc7be7ed5d))
+
+
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/Everettss/lerna-conventional-commits-example/compare/@my-scope/usage@1.1.0...@my-scope/usage@1.2.0) (2020-08-26)
 
