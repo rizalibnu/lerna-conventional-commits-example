@@ -8,6 +8,7 @@
     },
     "version": {
       "conventionalCommits": true,
+      "changelogPreset": "@my-scope/conventional-changelog-rizalibnu",
       "allowBranch": "master"
     }
   }
