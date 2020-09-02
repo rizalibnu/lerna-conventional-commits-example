@@ -790,10 +790,10 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@my-scope/conventional-changelog-rizalibnu@^1.3.1":
-  version "1.3.1"
-  resolved "http://localhost:4873/@my-scope%2fconventional-changelog-rizalibnu/-/conventional-changelog-rizalibnu-1.3.1.tgz#11756fa9f6d3ed2867cea70c41760e252a74e1db"
-  integrity sha512-nI09bJzyfjBmZirfnz3lu7+DK11HsG9wt2O8hAuv/EOg/zM/ctOQQFQsfnraO5HFd2M2lmKjTaeN0YEqw5Ywsw==
+"@my-scope/conventional-changelog-rizalibnu@^1.4.0":
+  version "1.4.0"
+  resolved "http://localhost:4873/@my-scope%2fconventional-changelog-rizalibnu/-/conventional-changelog-rizalibnu-1.4.0.tgz#95888a5f27ba432c181063188ce04b837a103292"
+  integrity sha512-a6jbYM32cksI8zZE/dAYAZQ0/k9pfu3CH1InN+kg2U1X4Y0zX7FqZ6VHR2PySJ44oo3VIwjo+1MzZ56DwtncHQ==
   dependencies:
     compare-func "^2.0.0"
     lodash "^4.17.15"
