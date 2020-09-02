@@ -1,14 +1,14 @@
 {
-  "name": "@my-scope/conventional-changelog-kumparan",
+  "name": "@my-scope/conventional-changelog-rizalibnu",
   "version": "1.2.0",
-  "description": "conventional-changelog kumparan preset",
-  "author": "Muhamad Rizal Ibnu Abdulah <rizal.ibnu@kumparan.com>",
-  "homepage": "https://github.com/Everettss/lerna-conventional-commits-example#readme",
+  "description": "conventional-changelog rizalibnu preset",
+  "author": "Rizal Ibnu <muhamadrizalibnuabdulah@gmail.com>",
+  "homepage": "https://github.com/rizalibnu/lerna-conventional-commits-example#readme",
   "license": "UNLICENSED",
   "main": "index.js",
   "keywords": [
     "conventional-changelog",
-    "kumparan",
+    "rizalibnu",
     "preset"
   ],
   "directories": {
@@ -25,13 +25,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Everettss/lerna-conventional-commits-example.git"
+    "url": "git+https://github.com/rizalibnu/lerna-conventional-commits-example.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/Everettss/lerna-conventional-commits-example/issues"
+    "url": "https://github.com/rizalibnu/lerna-conventional-commits-example/issues"
   },
   "dependencies": {
     "compare-func": "^2.0.0",
