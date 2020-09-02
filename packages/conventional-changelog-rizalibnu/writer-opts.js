@@ -173,8 +173,8 @@ function defaultConfig (config) {
     { type: 'refactor', section: 'Code Refactoring' },
     { type: 'test', section: 'Tests' },
     { type: 'build', section: 'Build System' },
-    { type: 'ci', section: 'Continuous Integration' }
-    { type: 'hidden', section: 'Tests', hidden: true },
+    { type: 'ci', section: 'Continuous Integration' },
+    { type: 'hidden', section: 'Tests', hidden: true }
   ]
   config.issueUrlFormat = config.issueUrlFormat ||
     '{{host}}/{{owner}}/{{repository}}/issues/{{id}}'
