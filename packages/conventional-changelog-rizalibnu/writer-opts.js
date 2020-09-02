@@ -33,11 +33,11 @@ function getWriterOpts () {
         discard = false
       })
 
-      if (commit.type === 'feat') {
+      if (['feat', 'feature'].includes(commit.type)) {
         commit.type = 'Features'
-      } else if (commit.type === 'fix') {
+      } else if (['fix', 'hotfix'].includes(commit.type)) {
         commit.type = 'Bug Fixes'
-      } else if (commit.type === 'perf') {
+      } else if (['perf', 'performance'].includes(commit.type)) {
         commit.type = 'Performance Improvements'
       } else if (commit.type === 'revert' || commit.revert) {
         commit.type = 'Reverts'

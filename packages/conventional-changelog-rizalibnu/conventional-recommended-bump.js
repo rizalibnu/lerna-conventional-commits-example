@@ -14,7 +14,7 @@ module.exports = {
       if (commit.notes.length > 0) {
         breakings += commit.notes.length
         level = 0
-      } else if (commit.type === 'feat') {
+      } else if (['feat', 'feature'].includes(commit.type)) {
         features += 1
         if (level === 2) {
           level = 1
