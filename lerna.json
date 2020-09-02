@@ -4,9 +4,11 @@
   "npmClient": "yarn",
   "command": {
     "publish": {
-      "conventionalCommits": true,
-      "changelogPreset": "@my-scope/conventional-changelog-rizalibnu",
       "registry": "http://localhost:4873"
+    },
+    "version": {
+      "conventionalCommits": true,
+      "changelogPreset": "@my-scope/conventional-changelog-rizalibnu"
     }
   }
 }
