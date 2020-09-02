@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.3](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/usage@1.3.2...@my-scope/usage@1.3.3) (2020-09-02)
+
+**Note:** Version bump only for package @my-scope/usage
+
+
+
+
+
 ## [1.3.2](https://github.com/Everettss/lerna-conventional-commits-example/compare/@my-scope/usage@1.3.1...@my-scope/usage@1.3.2) (2020-09-02)
 
 **Note:** Version bump only for package @my-scope/usage
