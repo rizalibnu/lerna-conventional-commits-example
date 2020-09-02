@@ -5,7 +5,7 @@
   "command": {
     "publish": {
       "conventionalCommits": true,
-      "changelogPreset": "conventionalcommits",
+      "changelogPreset": "@my-scope/conventional-changelog-rizalibnu",
       "registry": "http://localhost:4873"
     }
   }
