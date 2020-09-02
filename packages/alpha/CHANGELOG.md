@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [1.6.5](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/alpha@1.6.4...@my-scope/alpha@1.6.5) (2020-09-02)
+
+
+### Bug Fixes
+
+* remove dotdotdot ([2342e76](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/2342e766e104e9822387476a7e91b588f9cf500e))
+
+
+
 ### [1.6.4](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/alpha@1.6.3...@my-scope/alpha@1.6.4) (2020-09-02)
 
 
