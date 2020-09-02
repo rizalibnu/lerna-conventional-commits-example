@@ -5,7 +5,6 @@
   "command": {
     "publish": {
       "conventionalCommits": true,
-      "changelogPreset": "@my-scope/kumparan",
       "registry": "http://localhost:4873"
     }
   }
