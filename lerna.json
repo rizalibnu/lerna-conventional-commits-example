@@ -6,6 +6,12 @@
     "publish": {
       "registry": "http://localhost:4873"
     },
+    "ignoreChanges": [
+      "**/CHANGELOG.md",
+      "**/node_modules/**",
+      "**/tests/**",
+      "**/__tests__/**"
+    ],
     "version": {
       "conventionalCommits": true,
       "changelogPreset": "@my-scope/conventional-changelog-rizalibnu",
