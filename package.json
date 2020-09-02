@@ -12,5 +12,8 @@
     "extends": [
       "@commitlint/config-conventional"
     ]
+  },
+  "dependencies": {
+    "@my-scope/conventional-changelog-rizalibnu": "^1.2.1"
   }
 }

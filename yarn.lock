@@ -790,6 +790,14 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
+"@my-scope/conventional-changelog-rizalibnu@^1.2.1":
+  version "1.2.1"
+  resolved "http://localhost:4873/@my-scope%2fconventional-changelog-rizalibnu/-/conventional-changelog-rizalibnu-1.2.1.tgz#095f4ed0c7544b87312846c2a35a6fc87463a710"
+  integrity sha512-XnO0RMnZZ1GxEGmjmWpAdz/8dMefcQPxDc72JjLXAJUNAF7z9aH/t5PhVmLYwAUxfTRyaK4gBkyG46XEgpiW+A==
+  dependencies:
+    compare-func "^2.0.0"
+    q "^1.5.1"
+
 "@nodelib/fs.stat@^1.1.2":
   version "1.1.3"
   resolved "http://localhost:4873/@nodelib%2ffs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
