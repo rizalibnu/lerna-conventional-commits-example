@@ -1,11 +1,11 @@
-# `@my-scope/conventional-changelog-kumparan`
+# `@my-scope/conventional-changelog-rizalibnu`
 
 > TODO: description
 
 ## Usage
 
 ```
-const conventionalChangelogKumparan = require('@my-scope/conventional-changelog-kumparan');
+const conventionalChangelogrizalibnu = require('@my-scope/conventional-changelog-rizalibnu');
 
 // TODO: DEMONSTRATE API
 ```
