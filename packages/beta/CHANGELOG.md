@@ -1,3 +1,16 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+### [1.2.4](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/beta@1.2.3...@my-scope/beta@1.2.4) (2020-09-02)
+
+**Note:** Version bump only for package @my-scope/beta
+
+
+
+
+
 ### 1.2.3 (2020-09-02)
 
 
@@ -29,4 +42,3 @@
 * remove space ([c39d8f5](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/c39d8f5e5dba084c78e7cb8278524a19a13f391e))
 * typo in message ([88167cd](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/88167cd3985b96a2ca4ae852c356d4ff5a5007d6))
 * upper-case message ([80c7707](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/80c770774da1a8a2515b9feec9390627fbe8c4b8))
-
