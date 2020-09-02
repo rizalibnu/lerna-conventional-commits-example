@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/Everettss/lerna-conventional-commits-example/compare/@my-scope/alpha@1.2.0...@my-scope/alpha@1.3.0) (2020-09-02)
+
+
+### Features
+
+* add dotdotdot ([8748d89](https://github.com/Everettss/lerna-conventional-commits-example/commit/8748d897fbba4b82fce888bd637c08d088c59753))
+
+
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/Everettss/lerna-conventional-commits-example/compare/@my-scope/alpha@1.0.0...@my-scope/alpha@1.2.0) (2020-08-26)
 

@@ -1,6 +1,6 @@
 {
   "name": "@my-scope/conventional-changelog-kumparan",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "conventional-changelog kumparan preset",
   "author": "Muhamad Rizal Ibnu Abdulah <rizal.ibnu@kumparan.com>",
   "homepage": "https://github.com/Everettss/lerna-conventional-commits-example#readme",
