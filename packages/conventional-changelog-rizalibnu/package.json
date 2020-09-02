@@ -16,6 +16,7 @@
     "test": "__tests__"
   },
   "files": [
+    "add-bang-notes.js",
     "conventional-changelog.js",
     "conventional-recommended-bump.js",
     "index.js",
@@ -35,6 +36,7 @@
   },
   "dependencies": {
     "compare-func": "^2.0.0",
+    "lodash": "^4.17.15",
     "q": "^1.5.1"
   }
 }
