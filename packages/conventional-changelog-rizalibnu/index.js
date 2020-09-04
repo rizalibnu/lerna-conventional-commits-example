@@ -9,7 +9,7 @@ const recommendedBumpOpts = require('./conventional-recommended-bump')
 const writerOpts = require('./writer-opts')
 
 module.exports = function (parameter) {
-  // parameter passed can be either a config object or a callback function.
+  // parameter passed can be either a config object or a callback function
   if (_.isFunction(parameter)) {
     // parameter is a callback object
     const config = {}
