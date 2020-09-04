@@ -7,7 +7,7 @@
     "changelog": "git-chglog -o CHANGELOG.md -p \"@my-scope/conventional-changelog-rizalibnu@(\\d+\\.)(\\d+\\.)(\\d+)\" @my-scope/conventional-changelog-rizalibnu@0.0.0.."
   },
   "devDependencies": {
-    "@my-scope/conventional-changelog-rizalibnu": "^1.4.8",
+    "@my-scope/conventional-changelog-rizalibnu": "^1.4.10",
     "conventional-changelog-conventionalcommits": "^4.4.0",
     "lerna": "^3.22.1"
   },
