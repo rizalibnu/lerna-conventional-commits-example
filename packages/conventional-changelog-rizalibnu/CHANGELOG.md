@@ -8,35 +8,34 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Bug Fixes
 
-* add dot ([258561e](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/258561ecc25a95d6d7eb43af14e81a2002ff3774))
-* add dot again ([a08e961](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/a08e96114444b7e94554694da0f64b6c0e50373f))
+* add dot again ([a08e961](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/a08e961))
+* add dot ([258561e](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/258561e))
 
 
-
-### [1.5.9](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.8...@my-scope/conventional-changelog-rizalibnu@1.5.9) (2020-09-04)
-
-**Note:** Version bump only for package @my-scope/conventional-changelog-rizalibnu
+## [@my-scope/conventional-changelog-rizalibnu@1.5.9](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.8...@my-scope/conventional-changelog-rizalibnu@1.5.9) (2020-09-04)
 
 
+### Code Refactoring
+
+* template ([7e8f58a](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/7e8f58a))
 
 
-
-### [1.5.8](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.7...@my-scope/conventional-changelog-rizalibnu@1.5.8) (2020-09-04)
+## [@my-scope/conventional-changelog-rizalibnu@1.5.8](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.7...@my-scope/conventional-changelog-rizalibnu@1.5.8) (2020-09-04)
 
 
 ### Bug Fixes
 
-* remove dot ([c0b76cf](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/c0b76cf93e52b0bd655739d5df19319c1d97165a))
-* remove dot again ([87824e9](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/87824e9d70da56da666aebdc954c9dac0424a382))
+* remove dot again ([87824e9](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/87824e9))
+* remove dot ([c0b76cf](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/c0b76cf))
 
 
-
-### [1.5.7](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.6...@my-scope/conventional-changelog-rizalibnu@1.5.7) (2020-09-04)
-
-**Note:** Version bump only for package @my-scope/conventional-changelog-rizalibnu
+## [@my-scope/conventional-changelog-rizalibnu@1.5.7](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.6...@my-scope/conventional-changelog-rizalibnu@1.5.7) (2020-09-04)
 
 
+### Code Refactoring
 
+* add dot again ([c508cc4](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/c508cc4))
+* add dot ([0c91a76](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/0c91a76))
 
 
 ## [@my-scope/conventional-changelog-rizalibnu@1.5.6](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.5...@my-scope/conventional-changelog-rizalibnu@1.5.6) (2020-09-04)
@@ -44,7 +43,8 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Code Refactoring
 
-* remove dot ([682c248](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/682c248d835ff859e5e3345f9ea9ff415e223961))* remove dot again ([55ec3bf](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/55ec3bfe32efe21ffd5059b22f2cbc6d5a75a9da))
+* remove dot again ([55ec3bf](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/55ec3bf))
+* remove dot ([682c248](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/682c248))
 
 
 ## [@my-scope/conventional-changelog-rizalibnu@1.5.5](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.4...@my-scope/conventional-changelog-rizalibnu@1.5.5) (2020-09-04)
@@ -52,31 +52,33 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Bug Fixes
 
-* add dot ([3851578](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/3851578b32ff19cc541d307c4531f27d4727b495))
+* add dot ([3851578](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/3851578))
 
 ### Code Refactoring
 
-* add dot ([1a7a182](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/1a7a1826204a115cf6a1912fb24442cb8c3c4718))
+* add dot ([1a7a182](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/1a7a182))
 
 
 ## [@my-scope/conventional-changelog-rizalibnu@1.5.4](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.3...@my-scope/conventional-changelog-rizalibnu@1.5.4) (2020-09-04)
 
+
 **Note:** Version bump only for package @my-scope/conventional-changelog-rizalibnu
-
-
-
-
 
 ## [@my-scope/conventional-changelog-rizalibnu@1.5.3](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.2...@my-scope/conventional-changelog-rizalibnu@1.5.3) (2020-09-04)
 
 
 ### Bug Fixes
 
-* add dot ([53d9c68](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/53d9c68a8d17f901f5b4b498507fb948f1968826))* remove dot ([2ffe33d](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/2ffe33db79115690fddf9a4f8cf8f2e69aa262f0))* remove line break ([3952b6d](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/3952b6d292df17e1aef42647eb413af6419479de))
+* remove line break ([3952b6d](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/3952b6d))
+* remove dot ([2ffe33d](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/2ffe33d))
+* add dot ([53d9c68](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/53d9c68))
 
 ### Code Refactoring
 
-* add dot ([a48521d](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/a48521d9f8dcbe3adce69022d7c6110880830094))* add line break ([501b589](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/501b589d23cb69f95b8dee46be9fc37c10218cdb))* add line breaks ([b2786c4](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/b2786c459dd41394971b5e8250cdc31c6c97b8c3))* **writer-opts:** remove dot ([6367711](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/636771191fc20ca9c910d877da8c8a34ed69a2c9))
+* add line break ([501b589](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/501b589))
+* add line breaks ([b2786c4](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/b2786c4))
+* add dot ([a48521d](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/a48521d))
+* **writer-opts:** remove dot ([6367711](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/6367711))
 
 
 ## [@my-scope/conventional-changelog-rizalibnu@1.5.2](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.1...@my-scope/conventional-changelog-rizalibnu@1.5.2) (2020-09-04)
@@ -84,7 +86,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Bug Fixes
 
-* **writer-opts:** remove dot ([239c3d6](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/239c3d6e83340292ea2bba616cb130f2519cca1c))
+* **writer-opts:** remove dot ([239c3d6](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/239c3d6))
 
 
 ## [@my-scope/conventional-changelog-rizalibnu@1.5.1](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.0...@my-scope/conventional-changelog-rizalibnu@1.5.1) (2020-09-04)
@@ -319,3 +321,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * add console warn ([c8dfd0e](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/c8dfd0e))
 * add console info ([7963b00](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/7963b00))
 * part of classic Hello world ([0ab10d6](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/0ab10d6))
+
