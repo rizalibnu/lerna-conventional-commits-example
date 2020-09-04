@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [@my-scope/alpha@1.7.7](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/alpha@1.7.6...@my-scope/alpha@1.7.7) (2020-09-04)
+
+
+### Code Refactoring
+
+* use Hello ([ee7ba8c](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/ee7ba8cb6a725499d5a3cb0180334977abf5ec68))
+
+
+
 ## [@my-scope/alpha@1.7.6](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/alpha@1.7.5...@my-scope/alpha@1.7.6) (2020-09-04)
 
 
