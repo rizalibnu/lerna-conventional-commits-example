@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [1.4.6](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.5...@my-scope/conventional-changelog-rizalibnu@1.4.6) (2020-09-04)
+
+
+### Code Refactoring
+
+* improve template ([fa7adce](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/fa7adcef8fc13fc0634f7bdd362244956e1c18c0))
+
+
+
 
 ### [@my-scope/conventional-changelog-rizalibnu@1.4.5](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.4...@my-scope/conventional-changelog-rizalibnu@1.4.5) (2020-09-02)
 ### Code Refactoring
@@ -111,4 +120,3 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * add console warn
 * add console info
 * part of classic Hello world
-

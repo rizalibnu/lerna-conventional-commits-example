@@ -1,9 +1,9 @@
 {
   "name": "@my-scope/usage",
-  "version": "1.3.21",
+  "version": "1.3.22",
   "dependencies": {
-    "@my-scope/alpha": "^1.7.4",
-    "@my-scope/beta": "^1.2.4"
+    "@my-scope/alpha": "^1.7.5",
+    "@my-scope/beta": "^1.2.5"
   },
   "publishConfig": {
     "registry": "http://localhost:4873"

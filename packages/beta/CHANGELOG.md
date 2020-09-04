@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [1.2.5](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/beta@1.2.4...@my-scope/beta@1.2.5) (2020-09-04)
+
+**Note:** Version bump only for package @my-scope/beta
+
+
+
+
+
 
 ### [@my-scope/beta@1.2.4](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/beta@1.2.3...@my-scope/beta@1.2.4) (2020-09-02)
 ### Code Refactoring
@@ -92,4 +100,3 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Features
 * part of classic Hello world
-
