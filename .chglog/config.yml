@@ -1,7 +1,7 @@
 style: gitlab
 template: CHANGELOG.tpl.md
 info:
-  title: "@my-scope/conventional-changelog-rizalibnu"
+  title: "@my-scope/usage"
   repository_url: https://github.com/rizalibnu/lerna-conventional-commits-example
 options:
   issues:
