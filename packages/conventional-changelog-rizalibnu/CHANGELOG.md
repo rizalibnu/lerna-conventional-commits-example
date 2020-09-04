@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [@my-scope/conventional-changelog-rizalibnu@1.5.2](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.1...@my-scope/conventional-changelog-rizalibnu@1.5.2) (2020-09-04)
+
+
+### Bug Fixes
+
+* **writer-opts:** remove dot ([239c3d6](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/239c3d6e83340292ea2bba616cb130f2519cca1c))
+
+
 ## [@my-scope/conventional-changelog-rizalibnu@1.5.1](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.0...@my-scope/conventional-changelog-rizalibnu@1.5.1) (2020-09-04)
 
 
@@ -235,4 +243,3 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * add console warn ([c8dfd0e](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/c8dfd0e))
 * add console info ([7963b00](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/7963b00))
 * part of classic Hello world ([0ab10d6](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/0ab10d6))
-
