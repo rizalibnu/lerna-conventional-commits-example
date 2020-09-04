@@ -1,33 +1,28 @@
-# Change Log
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
-
-### [1.4.6](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.5...@my-scope/conventional-changelog-rizalibnu@1.4.6) (2020-09-04)
-
+## [@my-scope/conventional-changelog-rizalibnu@1.4.6](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.5...@my-scope/conventional-changelog-rizalibnu@1.4.6) (2020-09-04)
 
 ### Code Refactoring
-
-* improve template ([fa7adce](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/fa7adcef8fc13fc0634f7bdd362244956e1c18c0))
-
+* improve template
 
 
+## [@my-scope/conventional-changelog-rizalibnu@1.4.5](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.4...@my-scope/conventional-changelog-rizalibnu@1.4.5) (2020-09-02)
 
-### [@my-scope/conventional-changelog-rizalibnu@1.4.5](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.4...@my-scope/conventional-changelog-rizalibnu@1.4.5) (2020-09-02)
 ### Code Refactoring
 * add dotdot
 
 
-### [@my-scope/conventional-changelog-rizalibnu@1.4.4](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.3...@my-scope/conventional-changelog-rizalibnu@1.4.4) (2020-09-02)
+## [@my-scope/conventional-changelog-rizalibnu@1.4.4](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.3...@my-scope/conventional-changelog-rizalibnu@1.4.4) (2020-09-02)
+
 ### Code Refactoring
 * remove changelog
 
 
-### [@my-scope/conventional-changelog-rizalibnu@1.4.3](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.2...@my-scope/conventional-changelog-rizalibnu@1.4.3) (2020-09-02)
+## [@my-scope/conventional-changelog-rizalibnu@1.4.3](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.2...@my-scope/conventional-changelog-rizalibnu@1.4.3) (2020-09-02)
 
 **Note:** Version bump only for package @my-scope/conventional-changelog-rizalibnu
 
-### [@my-scope/conventional-changelog-rizalibnu@1.4.2](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.1...@my-scope/conventional-changelog-rizalibnu@1.4.2) (2020-09-02)
+## [@my-scope/conventional-changelog-rizalibnu@1.4.2](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.1...@my-scope/conventional-changelog-rizalibnu@1.4.2) (2020-09-02)
+
 ### Bug Fixes
 * remove dot dot dot
 * remove dotdotdot
@@ -41,7 +36,8 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **alpha:** add dot dot dot
 
 
-### [@my-scope/conventional-changelog-rizalibnu@1.4.1](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.0...@my-scope/conventional-changelog-rizalibnu@1.4.1) (2020-09-02)
+## [@my-scope/conventional-changelog-rizalibnu@1.4.1](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.0...@my-scope/conventional-changelog-rizalibnu@1.4.1) (2020-09-02)
+
 ### Bug Fixes
 * fix changelog fail
 
@@ -49,7 +45,8 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * add dotdotdot
 
 
-### [@my-scope/conventional-changelog-rizalibnu@1.4.0](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.3.2...@my-scope/conventional-changelog-rizalibnu@1.4.0) (2020-09-02)
+## [@my-scope/conventional-changelog-rizalibnu@1.4.0](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.3.2...@my-scope/conventional-changelog-rizalibnu@1.4.0) (2020-09-02)
+
 ### Code Refactoring
 * remove dotdotdot
 
@@ -58,7 +55,8 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * add dotdotdot
 
 
-### [@my-scope/conventional-changelog-rizalibnu@1.3.2](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.3.1...@my-scope/conventional-changelog-rizalibnu@1.3.2) (2020-09-02)
+## [@my-scope/conventional-changelog-rizalibnu@1.3.2](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.3.1...@my-scope/conventional-changelog-rizalibnu@1.3.2) (2020-09-02)
+
 ### Bug Fixes
 * remove dotdotdot
 
@@ -66,13 +64,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * remove old changelog
 
 
-### [@my-scope/conventional-changelog-rizalibnu@1.3.1](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.3.0...@my-scope/conventional-changelog-rizalibnu@1.3.1) (2020-09-02)
+## [@my-scope/conventional-changelog-rizalibnu@1.3.1](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.3.0...@my-scope/conventional-changelog-rizalibnu@1.3.1) (2020-09-02)
+
 ### Bug Fixes
 * add package.json files
 * add dotdotdot
 
 
-### [@my-scope/conventional-changelog-rizalibnu@1.3.0](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.2.3...@my-scope/conventional-changelog-rizalibnu@1.3.0) (2020-09-02)
+## [@my-scope/conventional-changelog-rizalibnu@1.3.0](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.2.3...@my-scope/conventional-changelog-rizalibnu@1.3.0) (2020-09-02)
+
 ### Bug Fixes
 * add dotdotdot
 
@@ -84,12 +84,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * remove dotdotdot
 
 
-### [@my-scope/conventional-changelog-rizalibnu@1.2.3](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.2.2...@my-scope/conventional-changelog-rizalibnu@1.2.3) (2020-09-02)
+## [@my-scope/conventional-changelog-rizalibnu@1.2.3](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.2.2...@my-scope/conventional-changelog-rizalibnu@1.2.3) (2020-09-02)
+
 ### Features
 * add dotdotdot
 
 
-### [@my-scope/conventional-changelog-rizalibnu@1.2.2](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.2.1...@my-scope/conventional-changelog-rizalibnu@1.2.2) (2020-09-02)
+## [@my-scope/conventional-changelog-rizalibnu@1.2.2](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.2.1...@my-scope/conventional-changelog-rizalibnu@1.2.2) (2020-09-02)
+
 ### Bug Fixes
 * remove dotdotdot
 
@@ -98,7 +100,8 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * change changelog preset
 
 
-### @my-scope/conventional-changelog-rizalibnu@1.2.1 (2020-09-02)
+## @my-scope/conventional-changelog-rizalibnu@1.2.1 (2020-09-02)
+
 ### Bug Fixes
 * remove space
 * lower-case message
@@ -120,3 +123,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * add console warn
 * add console info
 * part of classic Hello world
+
