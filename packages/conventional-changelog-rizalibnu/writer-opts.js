@@ -7,7 +7,7 @@ const readFile = Q.denodeify(require('fs').readFile)
 const resolve = require('path').resolve
 
 /**
- * Handlebar partials for various property substitutions based on commit context
+ * Handlebar partials for various property substitutions based on commit context.
  */
 const owner = '{{#if this.owner}}{{~this.owner}}{{else}}{{~@root.owner}}{{/if}}'
 const host = '{{~@root.host}}'
