@@ -1,3 +1,16 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [@my-scope/conventional-changelog-rizalibnu@1.4.13](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.12...@my-scope/conventional-changelog-rizalibnu@1.4.13) (2020-09-04)
+
+
+### Code Refactoring
+
+* remove dot
+
+
 
 ## [@my-scope/conventional-changelog-rizalibnu@1.4.12](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.11...@my-scope/conventional-changelog-rizalibnu@1.4.12) (2020-09-04)
 
@@ -156,4 +169,3 @@
 * add console warn
 * add console info
 * part of classic Hello world
-
