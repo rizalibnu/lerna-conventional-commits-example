@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [1.5.9](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.8...@my-scope/conventional-changelog-rizalibnu@1.5.9) (2020-09-04)
+
+**Note:** Version bump only for package @my-scope/conventional-changelog-rizalibnu
+
+
+
+
+
 ### [1.5.8](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.7...@my-scope/conventional-changelog-rizalibnu@1.5.8) (2020-09-04)
 
 
