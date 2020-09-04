@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [@my-scope/alpha@1.7.6](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/alpha@1.7.5...@my-scope/alpha@1.7.6) (2020-09-04)
+
+
+### Code Refactoring
+
+* remove dotdotdot ([e715680](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/e715680e27fe28f3e046f5e333ac78485917aabb))
+
+
+
 ## [@my-scope/alpha@1.7.5](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/alpha@1.7.4...@my-scope/alpha@1.7.5) (2020-09-04)
 
 
@@ -246,4 +255,3 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### Features
 
 * part of classic Hello world ([af354bf](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/af354bf))
-

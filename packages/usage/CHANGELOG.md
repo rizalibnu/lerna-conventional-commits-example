@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [@my-scope/usage@1.3.23](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/usage@1.3.22...@my-scope/usage@1.3.23) (2020-09-04)
+
+**Note:** Version bump only for package @my-scope/usage
+
+
+
+
+
 ## [@my-scope/usage@1.3.22](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/usage@1.3.21...@my-scope/usage@1.3.22) (2020-09-04)
 
 
@@ -286,4 +294,3 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### Features
 
 * part of classic Hello world ([af354bf](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/af354bf))
-
