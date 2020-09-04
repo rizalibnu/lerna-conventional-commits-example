@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+##
+[@my-scope/conventional-changelog-rizalibnu@1.4.11](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.10...@my-scope/conventional-changelog-rizalibnu@1.4.11) (2020-09-04)
+
+
+### Code Refactoring
+
+* add dot
+
+
 ### [1.4.10](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.8...@my-scope/conventional-changelog-rizalibnu@1.4.10) (2020-09-04)
 
 
