@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [1.4.8](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.7...@my-scope/conventional-changelog-rizalibnu@1.4.8) (2020-09-04)
+
+
+### Code Refactoring
+
+* use currentTag for header ([2fc6cce](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/2fc6ccee8c688cd00b4c43b413fc94fb1ca9516c))
+
+
+
 ### [1.4.7](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.6...@my-scope/conventional-changelog-rizalibnu@1.4.7) (2020-09-04)
 
 
