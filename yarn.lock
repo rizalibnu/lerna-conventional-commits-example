@@ -790,7 +790,7 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@my-scope/conventional-changelog-rizalibnu@^1.4.8":
+"@my-scope/conventional-changelog-rizalibnu@^1.4.5":
   version "1.4.8"
   resolved "http://localhost:4873/@my-scope%2fconventional-changelog-rizalibnu/-/conventional-changelog-rizalibnu-1.4.8.tgz#78d7de71ae9b6806db961d5db187474c26cad1c0"
   integrity sha512-riCvkQsOzQbVKbRi4fv9s4jrlPazBJc4EOIV4Xu3WRMpShr3pobp60feqRFRWudrLeQGK6t9gqWppRf2t6eumQ==
