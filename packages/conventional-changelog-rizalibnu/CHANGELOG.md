@@ -8,7 +8,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Code Refactoring
 
-* improve template
+* improve template ([6f28f59](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/6f28f59))
 
 
 ## [@my-scope/conventional-changelog-rizalibnu@1.5.0](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.13...@my-scope/conventional-changelog-rizalibnu@1.5.0) (2020-09-04)
@@ -235,3 +235,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * add console warn ([c8dfd0e](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/c8dfd0e))
 * add console info ([7963b00](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/7963b00))
 * part of classic Hello world ([0ab10d6](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/0ab10d6))
+
