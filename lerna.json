@@ -14,7 +14,7 @@
     ],
     "version": {
       "conventionalCommits": true,
-      "changelogPreset": "conventionalcommits",
+      "changelogPreset": "@my-scope/conventional-changelog-rizalibnu",
       "allowBranch": "master"
     }
   }
