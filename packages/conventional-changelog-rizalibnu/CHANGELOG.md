@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [@my-scope/conventional-changelog-rizalibnu@1.5.10](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.9...@my-scope/conventional-changelog-rizalibnu@1.5.10) (2020-09-04)
+
+
+### Bug Fixes
+
+* add dot ([258561e](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/258561ecc25a95d6d7eb43af14e81a2002ff3774))
+* add dot again ([a08e961](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/a08e96114444b7e94554694da0f64b6c0e50373f))
+
+
+
 ### [1.5.9](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.8...@my-scope/conventional-changelog-rizalibnu@1.5.9) (2020-09-04)
 
 **Note:** Version bump only for package @my-scope/conventional-changelog-rizalibnu
