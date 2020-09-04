@@ -5,12 +5,6 @@
   {{~header}}
 {{~/if}}
 
-{{~!-- commit link --}}{{~#if hash}} {{#if @root.linkReferences~}}
-  ([{{shortHash}}]({{commitUrlFormat}}))
-{{~else}}
-  {{~shortHash}}
-{{~/if}}{{~/if}}
-
 {{~!-- commit references --}}
 {{~#if references~}}
   , closes
@@ -27,4 +21,3 @@
     {{~this.repository}}{{this.prefix}}{{this.issue}}
   {{~/if}}{{/each}}
 {{~/if}}
-
