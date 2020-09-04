@@ -24,7 +24,7 @@
 ### {{ .Title }}
 
 {{ range .Commits -}}
-* {{ if .Scope }}**{{ .Scope }}:** {{ end }}{{ .Subject }}
+* {{ if .Scope }}**{{ .Scope }}:** {{ end }}{{ .Subject }} {{if .Hash.Short }}([{{ .Hash.Short }}]({{ $.Info.RepositoryURL }}/commit/{{.Hash.Short}})){{ end }}
 {{ end }}
 {{ end -}}
 {{ else -}}
