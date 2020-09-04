@@ -1,39 +1,23 @@
-# Change Log
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
-
-##
-[@my-scope/conventional-changelog-rizalibnu@1.4.12](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.11...@my-scope/conventional-changelog-rizalibnu@1.4.12) (2020-09-04)
-
+## [@my-scope/conventional-changelog-rizalibnu@1.4.12](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.11...@my-scope/conventional-changelog-rizalibnu@1.4.12) (2020-09-04)
 
 ### Code Refactoring
-
 * improve header
 
 
-##
-[@my-scope/conventional-changelog-rizalibnu@1.4.11](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.10...@my-scope/conventional-changelog-rizalibnu@1.4.11) (2020-09-04)
-
+## [@my-scope/conventional-changelog-rizalibnu@1.4.11](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.10...@my-scope/conventional-changelog-rizalibnu@1.4.11) (2020-09-04)
 
 ### Code Refactoring
-
 * add dot
 
 
-### [1.4.10](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.8...@my-scope/conventional-changelog-rizalibnu@1.4.10) (2020-09-04)
-
+## [@my-scope/conventional-changelog-rizalibnu@1.4.10](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.8...@my-scope/conventional-changelog-rizalibnu@1.4.10) (2020-09-04)
 
 ### Bug Fixes
-
-* remove unused end block ([6972b96](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/6972b961d26e28402e5ca6f5683eba86030034d8))
-
+* remove unused end block
 
 ### Code Refactoring
-
-* update comment ([19f9b9b](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/19f9b9b0454c695b8cb7e63866b90a9f89c1c06d))
-
-
+* update comment
 
 
 ## [@my-scope/conventional-changelog-rizalibnu@1.4.8](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.4.7...@my-scope/conventional-changelog-rizalibnu@1.4.8) (2020-09-04)
@@ -172,3 +156,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * add console warn
 * add console info
 * part of classic Hello world
+
