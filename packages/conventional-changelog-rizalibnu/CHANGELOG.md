@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [@my-scope/conventional-changelog-rizalibnu@1.5.3](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.2...@my-scope/conventional-changelog-rizalibnu@1.5.3) (2020-09-04)
+
+
+### Bug Fixes
+
+* add dot ([53d9c68](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/53d9c68a8d17f901f5b4b498507fb948f1968826))* remove dot ([2ffe33d](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/2ffe33db79115690fddf9a4f8cf8f2e69aa262f0))* remove line break ([3952b6d](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/3952b6d292df17e1aef42647eb413af6419479de))
+
+### Code Refactoring
+
+* add dot ([a48521d](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/a48521d9f8dcbe3adce69022d7c6110880830094))* add line break ([501b589](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/501b589d23cb69f95b8dee46be9fc37c10218cdb))* add line breaks ([b2786c4](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/b2786c459dd41394971b5e8250cdc31c6c97b8c3))* **writer-opts:** remove dot ([6367711](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/636771191fc20ca9c910d877da8c8a34ed69a2c9))
+
+
 ## [@my-scope/conventional-changelog-rizalibnu@1.5.2](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.1...@my-scope/conventional-changelog-rizalibnu@1.5.2) (2020-09-04)
 
 
