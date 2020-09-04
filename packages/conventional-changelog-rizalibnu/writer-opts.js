@@ -67,7 +67,7 @@ function getWriterOpts (config) {
       const issues = []
       const typeKey = (commit.revert ? 'revert' : (commit.type || '')).toLowerCase()
 
-      // adds additional breaking change notes
+      // adds additional breaking change notes.
       // for the special case, test(system)!: hello world, where there is
       // a '!' but no 'BREAKING CHANGE' in body:
       addBangNotes(commit)
