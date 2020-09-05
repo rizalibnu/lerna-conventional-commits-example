@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "commitmsg": "commitlint -e $GIT_PARAMS",
-    "changelog": "git-chglog -o CHANGELOG.md -p \"@my-scope/usage@(\\d+\\.)(\\d+\\.)(\\d+)\" @my-scope/usage@0.0.0.."
+    "changelog": "git-chglog -o CHANGELOG.md -p \"@my-scope/alpha@(\\d+\\.)(\\d+\\.)(\\d+)\" @my-scope/alpha@0.0.0.."
   },
   "devDependencies": {
     "@my-scope/conventional-changelog-rizalibnu": "^1.5.9",
