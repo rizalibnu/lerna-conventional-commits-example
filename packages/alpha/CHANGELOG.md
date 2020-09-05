@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [@my-scope/alpha@1.7.8](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/alpha@1.7.7...@my-scope/alpha@1.7.8) (2020-09-05)
+
+
+### Reverts
+
+* Revert "refactor: remove dotdotdot" ([365962d](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/365962d1a64cc502e4fa07340f794b1b8daefdc0))
+
+
+
 ## [@my-scope/alpha@1.7.7](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/alpha@1.7.6...@my-scope/alpha@1.7.7) (2020-09-04)
 
 
