@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [@my-scope/conventional-changelog-rizalibnu@1.6.0](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.13...@my-scope/conventional-changelog-rizalibnu@1.6.0) (2020-09-07)
+
+
+### Features
+
+* add cli ([e39ea09](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/e39ea0961a53960702569a9a8934d0e1626488fc))
+
+
+
 ## [@my-scope/conventional-changelog-rizalibnu@1.5.13](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.12...@my-scope/conventional-changelog-rizalibnu@1.5.13) (2020-09-07)
 
 **Note:** Version bump only for package @my-scope/conventional-changelog-rizalibnu
