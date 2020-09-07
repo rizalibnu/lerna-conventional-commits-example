@@ -11,7 +11,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### Reverts
 
 {{ range .RevertCommits -}}
-* {{ .Revert.Header }}
+* Revert "{{ .Revert.Header }}" {{if .Hash.Short }}([{{ .Hash.Short }}]({{ $.Info.RepositoryURL }}/commit/{{.Hash.Short}})){{ end }}
 {{ end -}}
 {{ end -}}
 {{ if .NoteGroups -}}
@@ -31,6 +31,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * {{ if .Scope }}**{{ .Scope }}:** {{ end }}{{ .Subject }} {{if .Hash.Short }}([{{ .Hash.Short }}]({{ $.Info.RepositoryURL }}/commit/{{.Hash.Short}})){{ end }}
 {{ end }}
 {{ end -}}
+{{ else if .RevertCommits -}}
 {{ else -}}
 **Note:** Version bump only for package {{ $.Info.Title }}
 {{ end -}}
