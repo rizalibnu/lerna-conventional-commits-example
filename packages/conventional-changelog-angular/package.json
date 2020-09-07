@@ -1,6 +1,6 @@
 {
   "name": "@my-scope/conventional-changelog-angular",
-  "version": "0.0.0",
+  "version": "1.0.0-development",
   "description": "conventional-changelog angular preset",
   "main": "index.js",
   "scripts": {
