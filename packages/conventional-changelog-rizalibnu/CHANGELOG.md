@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [@my-scope/conventional-changelog-rizalibnu@1.6.1](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.6.0...@my-scope/conventional-changelog-rizalibnu@1.6.1) (2020-09-07)
+
+
+### Bug Fixes
+
+* add bin field ([40c0200](https://github.com/rizalibnu/lerna-conventional-commits-example/commit/40c02002ddf7c9d7c82f48b0b8c2cdbfa83f0e4d))
+
+
+
 ## [@my-scope/conventional-changelog-rizalibnu@1.6.0](https://github.com/rizalibnu/lerna-conventional-commits-example/compare/@my-scope/conventional-changelog-rizalibnu@1.5.13...@my-scope/conventional-changelog-rizalibnu@1.6.0) (2020-09-07)
 
 
