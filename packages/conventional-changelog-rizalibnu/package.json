@@ -25,7 +25,8 @@
     "index.js",
     "parser-opts.js",
     "writer-opts.js",
-    "templates"
+    "templates",
+    "cli.js"
   ],
   "repository": {
     "type": "git",
